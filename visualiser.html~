@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
+<script type="/home/ubuntu/DRHacks/eprints-articles.json" src="data.json"></script>
+<script type="text/javascript" src="javascript.js"></script>
 <body>
+
 
 <h2>Visualiser</h2>
 
 <p id="demo"></p>
 
 <script>
-
-/* var obj = JSON.parse('{ "name":"John", "age":30, "city":"New York"}');
-document.getElementById("demo").innerHTML = obj.name + ", " + obj.age; */
 
 var txtFile = new XMLHttpRequest();
 txtFile.open("GET", "https://raw.githubusercontent.com/hassanalubeidi/DRHacks/master/eprints-articles.json", true);
@@ -18,13 +18,13 @@ txtFile.onreadystatechange = function() {
     if (txtFile.status === 200) {  // Makes sure it's found the file.
       allText = txtFile.responseText;
       lines = txtFile.responseText.split("\n"); // Will separate each line into an array
-		document.getElementById("demo").innerHTML = "uh";
-    
+	//	if (lines.indexOf("eprintid") !=-1 ){	
+		document.getElementById("demo").innerHTML = lines;
+  //  }
     }
   }
 }
-txtFile.send(null);
-
+txtFile.send(null); 
 
 
 </script>
