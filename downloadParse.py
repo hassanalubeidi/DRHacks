@@ -2,7 +2,9 @@ import urllib, json
 
 filepath = 'eprints-articles.json'
 
-open("tmp.txt", "w").close()
+open("tmp.json", "w").close()
+with open("tmp.json", "a") as myfile:
+    myfile.write("{ \n \"nodes\": [ \n")
 
 with open(filepath) as fp:
    line = fp.readline()
@@ -12,11 +14,16 @@ with open(filepath) as fp:
        if "eprintid" in line.strip():
            line = line[15:-4]
            print("ID is {}".format(line.strip()))
-           with open("tmp.txt", "a") as myfile:
-               myfile.write(line.strip() + "\n")
+           with open("tmp.json", "a") as myfile:
+               myfile.write(" \t {\"id\":  \"" + line.strip() + "\", \"group\": 1},\n")
+
+       line = fp.readline()
+
+with open("tmp.json", "a") as myfile:
+    myfile.write("] \n }")
 
 #TITLE_PARSE
-       if "title" in line.strip():
+    '''   if "title" in line.strip():
            line = line[14:-5]
            print("Title is {}".format(line.strip()))
            with open("tmp.txt", "a") as myfile:
@@ -52,6 +59,4 @@ with open(filepath) as fp:
            line = line[7:-5]
            print("AUTHOR is {}".format(line.strip()))
            with open("tmp.txt", "a") as myfile:
-               myfile.write(line.strip())
-
-       line = fp.readline()
+               myfile.write(line.strip()) '''
