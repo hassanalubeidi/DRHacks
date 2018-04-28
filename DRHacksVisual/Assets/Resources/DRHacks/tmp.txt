@@ -1,0 +1,727 @@
+!1
+@A science-oriented search engine could solve web problems
+#article
+^Gardner, Mi
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/1/JSON/nott-eprint-1.js
+%2339
+ 
+!4
+@Database-backed library web sites: a case study of the use of PHP and MySQL at the University of Nottingham
+#article
+^Gardner, Mike
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/4/JSON/nott-eprint-4.js
+%271432
+ 
+!5
+@The hybrid library: a view from the UK
+#conference
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/5/JSON/nott-eprint-5.js
+%135613
+ 
+!7
+@Integrability for Relativistic Spin Networks
+#article
+^Barrett, John W.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/7/JSON/nott-eprint-7.js
+%90357
+ 
+!8
+@State sum models for quantum gravity
+#article
+^Barrett, John
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/8/JSON/nott-eprint-8.js
+%129024
+ 
+!9
+@A Lorentzian Signature Model for Quantum General Relativity
+#article
+^Barrett, John W.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/9/JSON/nott-eprint-9.js
+%78207
+ 
+!10
+@The Quantum Tetrahedron in 3 and 4 Dimensions
+#article
+^Baez, John C.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/10/JSON/nott-eprint-10.js
+%88176
+ 
+!11
+@The asymptotics of an amplitude for the 4-simplex
+#article
+^Barrett, John W.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/11/JSON/nott-eprint-11.js
+%32456
+ 
+!12
+@The classical evaluation of relativistic spin networks
+#article
+^Barrett, John
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/12/JSON/nott-eprint-12.js
+%42032
+ 
+!13
+@Unlinked Embedded Graphs
+#article
+^Barrett, John
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/13/JSON/nott-eprint-13.js
+%49310
+ 
+!14
+@Trivial Jensen measures without regularity
+#article
+^Feinstein, Jo
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/14/JSON/nott-eprint-14.js
+%34375
+ 
+!15
+@Spectral synthesis and topologies on ideal spaces for Banach *-algebras
+#article
+^Feinstein, Joel
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/15/JSON/nott-eprint-15.js
+%66218
+ 
+!16
+@Spectral synthesis for Banach Algebras II
+#article
+^Feinstein, Joel
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/16/JSON/nott-eprint-16.js
+%201728
+ 
+!17
+@Endomorphisms of Banach algebras of infinitely differentiable functions
+#article
+^Feinstein, Joel
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/17/JSON/nott-eprint-17.js
+%144384
+ 
+!21
+@The metaphorics of literary reading
+#article
+^Stockwell, Pet
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/21/JSON/nott-eprint-21.js
+%48154
+ 
+!22
+@The art of being alternative, with style, in context
+#article
+^Stockwell, Pet
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/22/JSON/nott-eprint-22.js
+%19574
+ 
+!24
+@Futuretalk: one small step towards a Chronolinguistics
+#article
+^Stockwell, Pet
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/24/JSON/nott-eprint-24.js
+%46616
+ 
+!28
+@On Location: The Question of Reading Crossculturally
+#article
+^Millington, Mark
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/28/JSON/nott-eprint-28.js
+%63259
+ 
+!29
+@From \"Rational Utopia\" to \"Will-to-Utopia\". On the \"Post-modern\" Turn in the Recent Work of Agnes Heller
+#article
+^Tormey, Sim
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/29/JSON/nott-eprint-29.js
+%850932
+ 
+!32
+@The hybrid library: a view from the UK
+#conference
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/32/JSON/nott-eprint-32.js
+%135613
+ 
+!33
+@The changing role of subject librarians in academic libraries
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/33/JSON/nott-eprint-33.js
+%59218
+ 
+!34
+@Information seeking in the online age: principles and practice / Andrew Large, Lucy A. Tedd and R.J. Hartley (Book review)
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/34/JSON/nott-eprint-34.js
+%8042
+ 
+!36
+@Books, bytes and bridges: libraries and computer centers in academic institutions / Larry Hardesty (editor). (Book review)
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/36/JSON/nott-eprint-36.js
+%5325
+ 
+!37
+@Being analog: creating tomorrow's libraries / Walt Crawford (Book review)
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/37/JSON/nott-eprint-37.js
+%4788
+ 
+!38
+@How do physicists use an e-print archive? Implications for institutional e-print services
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/38/JSON/nott-eprint-38.js
+%54330
+ 
+!40
+@Hexagonal patterns in finite domains
+#article
+^Matthews, Pa
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/40/JSON/nott-eprint-40.js
+%232448
+ 
+!42
+@Moral Requirements are still not Rational Requirements
+#article
+^Noordhof, Pa
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/42/JSON/nott-eprint-42.js
+%301056
+ 
+!43
+@In pain
+#article
+^Noordhof, Pa
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/43/JSON/nott-eprint-43.js
+%45268
+ 
+!44
+@In defence of influence?
+#article
+^Noordhof, Pa
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/44/JSON/nott-eprint-44.js
+%41861
+ 
+!45
+@The Mad Doctors: Medicine and Literature in Finisecular Spain
+#article
+^Cardwell, Richard
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/45/JSON/nott-eprint-45.js
+%67036
+ 
+!46
+@Modernismo frente a noventayocho: Relectura de una historia literaria
+#article
+^Cardwell, Richard
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/46/JSON/nott-eprint-46.js
+%38134
+ 
+!49
+@Pattern formation with a conservation law
+#article
+^Matthews, P.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/49/JSON/nott-eprint-49.js
+%327453
+ 
+!51
+@How do physicists use an e-print archive? Implications for institutional e-print services
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/51/JSON/nott-eprint-51.js
+%37066
+ 
+!56
+@Geometrical measurements in three-dimensional quantum gravity
+#article
+^Barrett, John
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/56/JSON/nott-eprint-56.js
+%360698
+ 
+!59
+@On the reduction theory of binary forms
+#article
+^Cremona, John E
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/59/JSON/nott-eprint-59.js
+%274432
+ 
+!60
+@Efficient Solution of Rational Conics
+#article
+^Cremona, John E
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/60/JSON/nott-eprint-60.js
+%499473
+ 
+!63
+@Is Experts' Knowledge Modular?
+#conference
+^Gobet, Ferna
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/63/JSON/nott-eprint-63.js
+%180594
+ 
+!64
+@Creating institutional e-print repositories
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/64/JSON/nott-eprint-64.js
+%39949
+ 
+!65
+@Leisure, family and work in the lifestyles of dual-earner families
+#conference
+^Such, Elizabe
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/65/JSON/nott-eprint-65.js
+%97651
+ 
+!95
+@SHERPA and Institutional Repositories
+#article
+^Henderson, Helen
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/95/JSON/nott-eprint-95.js
+%81506
+ 
+!99
+@Does the abundance of hoverfly mimics (Syrphidae) depend on the numbers of their hymenopteran models ?
+#article
+^Howarth, Brigitte
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/99/JSON/nott-eprint-99.js
+%407426
+ 
+!107
+@Receptors, sparks and waves in a fire-diffuse-fire framework for calcium release
+#article
+^Coombes, Stephen
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/107/JSON/nott-eprint-107.js
+%10128811
+ 
+!112
+@Mode locking in a periodically forced \"ghostbursting\" neuron model
+#article
+^Laing, Carlo
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/112/JSON/nott-eprint-112.js
+%1684028
+ 
+!114
+@Efficient delivery of Cre-recombinase to neurons in vivo and stable transduction of neurons using adeno-associated and lentiviral vectors
+#article
+^Ahmed, B.Y.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/114/JSON/nott-eprint-114.js
+%737066
+ 
+!115
+@Is quality of life measurement likely to be a proxy for health needs assessment in patients with coronary artery disease?
+#article
+^Asadi-Lari, M.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/115/JSON/nott-eprint-115.js
+%270909
+ 
+!116
+@Patients' satisfaction and quality of life in coronary artery disease
+#article
+^Asadi-Lari, M.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/116/JSON/nott-eprint-116.js
+%269801
+ 
+!117
+@Need for redefining needs
+#article
+^Asadi-Lari, M.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/117/JSON/nott-eprint-117.js
+%242731
+ 
+!118
+@Adaptation of the MacNew quality of life questionnaire after myocardial infarction in an Iranian population
+#article
+^Asadi-Lari, M.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/118/JSON/nott-eprint-118.js
+%260188
+ 
+!119
+@Unmet health needs in patients with coronary heart disease: implications and potential for improvement in caring services
+#article
+^Asadi-Lari, M.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/119/JSON/nott-eprint-119.js
+%279716
+ 
+!120
+@Paracrine effects of oocyte secreted factors and stem cell factor on porcine granulosa and theca cells in vitro
+#article
+^Brankin, V.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/120/JSON/nott-eprint-120.js
+%445309
+ 
+!121
+@In vivo models of lung neutrophil activation. Comparison of mice and hamsters
+#article
+^Corteling, R.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/121/JSON/nott-eprint-121.js
+%381409
+ 
+!122
+@Interleukin-4 receptor alpha gene variants and allergic disease
+#article
+^Hall, Ian
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/122/JSON/nott-eprint-122.js
+%101344
+ 
+!123
+@Pharmacogenetics, pharmacogenomics and airway disease
+#article
+^Hall, Ian
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/123/JSON/nott-eprint-123.js
+%70313
+ 
+!124
+@Variations in chemoprophylaxis for meningococcal disease: a retrospective case note review, analysis of routine prescribing data and questionnaire of general practitioners
+#article
+^Marks, P.J.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/124/JSON/nott-eprint-124.js
+%101344
+ 
+!125
+@Pathological validation and significance of micrometastasis in sentinel nodes in primary breast cancer
+#article
+^Rampaul, R.S.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/125/JSON/nott-eprint-125.js
+%146297
+ 
+!126
+@Angiogenesis in the pathogenesis of inflammatory joint and lung diseases
+#article
+^Walsh, D.A.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/126/JSON/nott-eprint-126.js
+%358069
+ 
+!127
+@Clustering through post inhibitory rebound in synaptically coupled neurons
+#article
+^Chik, D T W
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/127/JSON/nott-eprint-127.js
+%423161
+ 
+!130
+@Evans functions for integral neural field equations with Heaviside firing rate function
+#article
+^Coombes, Stephen
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/130/JSON/nott-eprint-130.js
+%2157743
+ 
+!132
+@Stromule formation is dependent upon plastid size, plastid differentiation status and the density of plastids within the cell
+#article
+^Waters, Mark
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/132/JSON/nott-eprint-132.js
+%703486
+ 
+!134
+@Directed percolation in a two dimensional stochastic fire-diffuse-fire model
+#article
+^Timofeeva, Yulia
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/134/JSON/nott-eprint-134.js
+%281710
+ 
+!139
+@What do universities want from publishing?
+#article
+^Pinfield, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/139/JSON/nott-eprint-139.js
+%106693
+ 
+!144
+@English Mental Health Reforms: Lessons from Ontario?
+#article
+^Bartlett, Pet
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/144/JSON/nott-eprint-144.js
+%184961
+ 
+!145
+@Capacity, Treatment and Human Rights
+#article
+^Bartlett, Pet
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/145/JSON/nott-eprint-145.js
+%168910
+ 
+!149
+@Bumps, breathers, and waves in a neural network with spike frequency adaptation
+#article
+^Coombes, Stephen
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/149/JSON/nott-eprint-149.js
+%278140
+ 
+!152
+@A mandate to self archive? The role of open access institutional repositories
+#article
+^Woodward, Hazel
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/152/JSON/nott-eprint-152.js
+%54830
+ 
+!153
+@Waves, bumps, and patterns in neural field theories
+#article
+^Coombes, Steph
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/153/JSON/nott-eprint-153.js
+%1270616
+ 
+!154
+@A posteriori error estimation for discontinuous Galerkin\ndiscretizations of H(curl)-elliptic partial differential equations
+#article
+^Houston, Paul
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/154/JSON/nott-eprint-154.js
+%624058
+ 
+!160
+@Calculation of electric field strengths at a sharp edge
+#article
+^Brailsford, David F.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/160/JSON/nott-eprint-160.js
+%66895
+ 
+!161
+@Electric field strengths and ion trajectories in sharp-edge field ionization sources
+#article
+^Brailsford, David
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/161/JSON/nott-eprint-161.js
+%76072
+ 
+!162
+@Symmetry properties of one- and two- electron molecular integrals
+#article
+^Brailsford, David F.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/162/JSON/nott-eprint-162.js
+%122517
+ 
+!163
+@Approximate ab initio calculations and the method of molecular fragments
+#conference
+^Saunders, V R
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/163/JSON/nott-eprint-163.js
+%99406
+ 
+!164
+@Symmetric Interior Penalty DG Methods for the Compressible\nNavier-Stokes Equations I: Method Formulation
+#article
+^Hartmann, Ralf
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/164/JSON/nott-eprint-164.js
+%983018
+ 
+!165
+@Symmetric Interior Penalty DG Methods for the Compressible Navier-Stokes Equations II: Goal--Oriented A Posteriori Error Estimation
+#article
+^Hartmann, Ralf
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/165/JSON/nott-eprint-165.js
+%4912000
+ 
+!166
+@Calculated ionization potentials of the linear alkanes
+#article
+^Brailsford, David F.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/166/JSON/nott-eprint-166.js
+%65780
+ 
+!167
+@3-body energy terms in a quartet state of H3
+#article
+^Brailsford, David F.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/167/JSON/nott-eprint-167.js
+%85722
+ 
+!168
+@Fast assembly of fock matrices utilising symmetry properties of the basis set
+#article
+^Brailsford, David F.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/168/JSON/nott-eprint-168.js
+%26391
+ 
+!183
+@Algol 68 Dialect Conversion -- a Syntactic Approach
+#conference
+^Rayward-Smith, V.J.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/183/JSON/nott-eprint-183.js
+%38940
+ 
+!186
+@Electronic Publishing -- a Journal and its Production
+#article
+^Brailsford, David F.^ywords"
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/186/JSON/nott-eprint-186.js
+%110068
+ 
+!188
+@Page Composition using PPML as a Link-editing Script
+#conference
+^Vion-Dury, Jean-Yves
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/188/JSON/nott-eprint-188.js
+%222489
+ 
+!190
+@Creating Structured PDF Files Using XML Templates
+#conference
+^Vion-Dury, Jean-Yves
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/190/JSON/nott-eprint-190.js
+%171544
+ 
+!192
+@Creating reusable well-structured pdf as a sequence of component object graphic (cog) elements
+#conference
+^Vanoirbeek, Christine
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/192/JSON/nott-eprint-192.js
+%361603
+ 
+!193
+@Using SVG as the Rendering Model for Structured and Graphically Complex Web Material
+#conference
+^Vanoirbeek, Christine
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/193/JSON/nott-eprint-193.js
+%178081
+ 
+!194
+@Discontinuous Galerkin Computation of the Maxwell Eigenvalues on Simplicial Meshes
+#article
+^Buffa, Annalisa
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/194/JSON/nott-eprint-194.js
+%630584
+ 
+!195
+@Substituting outline fonts for bitmap fonts in archived PDF files
+#article
+^Probets, Steve
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/195/JSON/nott-eprint-195.js
+%180342
+ 
+!197
+@Vector Graphics: From PostScript and Flash to SVG
+#conference
+^Munson, Ethan
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/197/JSON/nott-eprint-197.js
+%102575
+ 
+!198
+@Navigating a corpus of journal papers using Handles
+#conference
+^Hubler, Arved
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/198/JSON/nott-eprint-198.js
+%44002
+ 
+!199
+@The Development of an On-line Submission and Peer Review System
+#conference
+^Linde, Peter^ywords"
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/199/JSON/nott-eprint-199.js
+%63860
+ 
+!200
+@Mapping and Displaying Structural Transformations between XML and PDF
+#conference
+^Furuta, Richard
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/200/JSON/nott-eprint-200.js
+%433798
+ 
+!201
+@Three dimensional visualization of the World Wide Web
+#article
+^Benford, Steve
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/201/JSON/nott-eprint-201.js
+%384775
+ 
+!203
+@Separable Hyperstructure and Delayed Link Binding
+#article
+^Brailsford, David
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/203/JSON/nott-eprint-203.js
+%41333
+ 
+!205
+@Dynamic Link Inclusion in Online PDF Journals
+#conference
+^Andre, Jacques
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/205/JSON/nott-eprint-205.js
+%75319
+ 
+!206
+@Linking electronic journals - Lessons from the Open Journal project
+#article
+^Hitchcock, Steve
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/206/JSON/nott-eprint-206.js
+%110627
+ 
+!207
+@Electronic Publishing : the evolution and economics of a hybrid journal.
+#conference
+^Brailsford, David
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/207/JSON/nott-eprint-207.js
+%99904
+ 
+!210
+@Dendritic cable with active spines: a modeling study in the spike-diffuse-spike framework
+#article
+^Timofeeva, Yulia
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/210/JSON/nott-eprint-210.js
+%464120
+ 
+!211
+@The MUSE Machine -- an Architecture for Structured Data Flow Computation
+#article
+^Moto-oka, T.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/211/JSON/nott-eprint-211.js
+%75292
+ 
+!214
+@CD-ROM Acrobat Journals Using Networks
+#conference
+^Brailsford, David F.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/214/JSON/nott-eprint-214.js
+%98441
+ 
+!215
+@Experience with the use of Acrobat in the CAJUN publishing project
+#conference
+^Brailsford, David
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/215/JSON/nott-eprint-215.js
+%41799
+ 
+!217
+@Enhancing SPH using moving least-squares and radial basis functions
+#article
+^Brownlee, R.
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/217/JSON/nott-eprint-217.js
+%600359
+ 
+!218
+@Representations of first order function types as terminal coalgebras
+#conference
+^Altenkirch, Thorst
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/218/JSON/nott-eprint-218.js
+%139262
+ 
+!219
+@Adobe's Acrobat -- providing the missing link?
+#article
+^Brailsford, David
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/219/JSON/nott-eprint-219.js
+%62258
+ 
+!221
+@Higher-Order Functions for Parsing
+#article
+^Hutton, Grah
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/221/JSON/nott-eprint-221.js
+%221254
+ 
+!222
+@Back to Basics: Deriving Representation Changers Functionally
+#article
+^Hutton, Graham
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/222/JSON/nott-eprint-222.js
+%165651
+ 
+!223
+@Monadic parsing in Haskell
+#article
+^Hutton, Graham
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/223/JSON/nott-eprint-223.js
+%134918
+ 
+!224
+@A Tutorial on the Universality and Expressiveness of Fold
+#article
+^Hutton, Grah
+$http://eprints.nottingham.ac.uk/cgi/export/eprint/224/JSON/nott-eprint-224.js
+%191779
